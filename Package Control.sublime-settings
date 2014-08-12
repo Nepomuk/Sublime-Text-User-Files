@@ -1,5 +1,25 @@
 {
 	"installed_packages":
 	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"LESS",
+		"Markdown Preview",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes",
+		"Verilog",
+		"VHDL"
 	]
 }
