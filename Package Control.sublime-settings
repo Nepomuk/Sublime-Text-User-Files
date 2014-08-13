@@ -3,6 +3,7 @@
 	[
 		"Anaconda",
 		"BracketHighlighter",
+		"FileDiffs",
 		"Gist",
 		"Git",
 		"GitGutter",
