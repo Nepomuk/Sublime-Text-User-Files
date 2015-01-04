@@ -1,4 +1,9 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Anaconda",
@@ -12,6 +17,7 @@
 		"LaTeXTools",
 		"LESS",
 		"Markdown Preview",
+		"Package Control",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeLinter",
@@ -21,6 +27,7 @@
 		"ToggleQuotes",
 		"Tomorrow Color Schemes",
 		"Verilog",
-		"VHDL"
+		"VHDL",
+		"WordCount"
 	]
 }
