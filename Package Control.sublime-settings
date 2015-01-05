@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -28,6 +31,7 @@
 		"Tomorrow Color Schemes",
 		"Verilog",
 		"VHDL",
-		"WordCount"
+		"WordCount",
+		"Wrap Plus"
 	]
 }

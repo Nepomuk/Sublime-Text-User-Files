@@ -6,6 +6,9 @@
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+shift+v"], "command": "paste" },
 
+  /* change wrap lines hot key to be safer for accidentally closing sublime text */
+  { "keys": ["alt+q"], "command": "wrap_lines_plus" },
+
   /* LaTeX Package keymap for OS X */
   {
     "keys":     ["super+l","super+t"],
