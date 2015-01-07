@@ -1,5 +1,6 @@
 {
     "tab_size": 2,
     "spell_check": true,
-    "dictionary": "Packages/Language - English/en_US.dic"
+    "dictionary": "Packages/Language - English/en_US.dic",
+    "WrapPlus.break_on_hyphens": false
 }
