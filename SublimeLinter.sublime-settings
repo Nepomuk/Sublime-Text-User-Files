@@ -13,7 +13,7 @@
 		{
 			"pylint":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
