@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+\begin{table}[${1:t}]
+  \centering
+  \caption{${2:Caption here}}
+  \label{${3:t:table1}}
+  \begin{tabular}{${4:ccc}}
+    \toprule
+    \midrule
+    \bottomrule
+  \end{tabular}
+\end{table}
+]]></content>
+    <tabTrigger>btable</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>
