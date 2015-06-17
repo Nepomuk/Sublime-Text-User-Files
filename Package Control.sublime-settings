@@ -6,6 +6,7 @@
 	[
 		"Anaconda",
 		"BracketHighlighter",
+		"ColorPicker",
 		"FileDiffs",
 		"Fix Mac Path",
 		"Gist",
@@ -17,6 +18,7 @@
 		"LaTeXTools",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"SideBarEnhancements",
 		"SideBarGit",
